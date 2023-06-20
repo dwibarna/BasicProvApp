@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BasicProvApp</string>
+    <string name="id">ID</string>
+    <string name="id_prop">ID Prop</string>
+    <string name="nik">NIK</string>
+    <string name="nama">Nama</string>
+    <string name="nama_prop">Nama Prop</string>
+    <string name="jumlah_penduduk">Jumlah Penduduk</string>
+    <string name="title_text">Data penduduk indonesia</string>
+    <string name="sub_title_text">berikut merupakan data dari penduduk indonesia yang disortir berdasarkan KTP dan Provinsi:</string>
 </resources>
